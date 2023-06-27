@@ -6,14 +6,14 @@
     <description>Recent content on weiwmy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jun 2023 09:04:52 +0800</lastBuildDate><atom:link href="https://weiwmy.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 09:30:03 +0800</lastBuildDate><atom:link href="https://weiwmy.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Search</title>
-      <link>https://weiwmy.com/search/</link>
-      <pubDate>Tue, 27 Jun 2023 09:04:52 +0800</pubDate>
+      <title>Weiwmy</title>
+      <link>https://weiwmy.com/posts/weiwmy/</link>
+      <pubDate>Tue, 27 Jun 2023 09:30:03 +0800</pubDate>
       
-      <guid>https://weiwmy.com/search/</guid>
-      <description></description>
+      <guid>https://weiwmy.com/posts/weiwmy/</guid>
+      <description>hi</description>
     </item>
     
     <item>
@@ -22,6 +22,15 @@
       <pubDate>Tue, 27 Jun 2023 08:53:22 +0800</pubDate>
       
       <guid>https://weiwmy.com/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://weiwmy.com/search/</link>
+      <pubDate>Tue, 27 Jun 2023 08:53:22 +0800</pubDate>
+      
+      <guid>https://weiwmy.com/search/</guid>
       <description></description>
     </item>
     
