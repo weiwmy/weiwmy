@@ -8694,6 +8694,31 @@
 
   // ns-hugo:/Users/weiwmy/My Drive/G00-Github/myblog/assets/js/init/initMouseClickAnimate.js
   var import_jquery12 = __toESM(require_jquery_min());
+  function initMouseClickAnimate() {
+    (0, import_jquery12.default)(document).click((e) => {
+      let size = 120;
+      (0, import_jquery12.default)("body").append(`<div class='water-animate'></div>`);
+      (0, import_jquery12.default)(".water-animate").css({
+        // init style
+        position: "fixed",
+        left: e.clientX,
+        top: e.clientY,
+        borderRadius: size + "px",
+        border: "2px solid #19f",
+        "z-index": -1
+      }).stop().animate(
+        {
+          width: size,
+          height: size,
+          left: e.clientX - size / 2,
+          top: e.clientY - size / 2,
+          opacity: "0"
+        },
+        "slow",
+        () => (0, import_jquery12.default)("body .water-animate").remove()
+      );
+    });
+  }
 
   // ns-hugo:/Users/weiwmy/My Drive/G00-Github/myblog/assets/js/init/enhanceOrgMode.js
   var import_jquery13 = __toESM(require_jquery_min());
@@ -8745,6 +8770,7 @@
   initNavLink();
   initCodeBlock();
   enhanceMarkdown_default();
+  initMouseClickAnimate();
   initEventBinding();
 })();
 /*! jQuery v3.6.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */

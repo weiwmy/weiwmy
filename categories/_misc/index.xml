@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>weiwmy</title>
-    <link>https://weiwmy.com/</link>
-    <description>Recent content on weiwmy</description>
+    <title>_Misc on weiwmy</title>
+    <link>https://weiwmy.com/categories/_misc/</link>
+    <description>Recent content in _Misc on weiwmy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jun 2023 09:04:52 +0800</lastBuildDate><atom:link href="https://weiwmy.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 09:04:52 +0800</lastBuildDate><atom:link href="https://weiwmy.com/categories/_misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Search</title>
       <link>https://weiwmy.com/search/</link>
@@ -41,15 +41,6 @@
       
       <guid>https://weiwmy.com/about/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Nav</title>
-      <link>https://weiwmy.com/nav/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://weiwmy.com/nav/</guid>
-      <description>🌞 分类 ONE mineitem one mineitem two mineitem three 🔨 分类 TWO toolitem three 📑 分类 THREE docitem one docitem two docitem three 🔖 标签 BOOKMARKs bookmark item one https://bookmark-item-one.com bookmark item two https://bookmark-item-two.com bookmark item three https://bookmark-item-three.com</description>
     </item>
     
   </channel>
