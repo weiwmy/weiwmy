@@ -8385,7 +8385,7 @@
     console.log(
       `---------------------
 		
-	Hello Jack \u{1F60E}
+	Hello weiwmy
 
 		---------------------`
     );
@@ -8630,7 +8630,7 @@
     (0, import_jquery9.default)(window).bind("scroll", (0, import_lodash.throttle)(colorToc, 500));
     (0, import_jquery9.default)("#toc").bind("click", toggleToc);
     (0, import_jquery9.default)("#light-dark").bind("click", toggleColor);
-    if (location.href.indexOf("ovirgo") > -1)
+    if (location.href.indexOf("oweiwmy") > -1)
       (0, import_jquery9.default)("#s").hide();
     (0, import_jquery9.default)(".content img").bind("click", viewImage);
   }
@@ -8642,7 +8642,7 @@
     _arr.each(function(idx) {
       let isShow = !parseSiteParams().hasFoldAllCodeBlocks;
       if (browserRedirect())
-        isShow = false;
+        isShow = true;
       let _this = (0, import_jquery10.default)(this);
       let _lang = (0, import_jquery10.default)(this).attr("data-lang");
       let _id = _lang + idx;

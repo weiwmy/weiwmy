@@ -62,12 +62,21 @@
     </item>
     
     <item>
+      <title>Wiki</title>
+      <link>https://weiwmy.com/posts/wiki/</link>
+      <pubDate>Mon, 26 Jun 2023 21:05:24 +0800</pubDate>
+      
+      <guid>https://weiwmy.com/posts/wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nav</title>
       <link>https://weiwmy.com/nav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://weiwmy.com/nav/</guid>
-      <description>🌞 分类 ONE mineitem one mineitem two mineitem three 🔨 分类 TWO toolitem three 📑 分类 THREE docitem one docitem two docitem three 🔖 标签 BOOKMARKs bookmark item one https://bookmark-item-one.com bookmark item two https://bookmark-item-two.com bookmark item three https://bookmark-item-three.com</description>
+      <description> 🌞 分类 ONE mineitem one mineitem two mineitem three 🔨 分类 TWO toolitem three 📑 分类 THREE docitem one docitem two docitem three 🔖 标签 BOOKMARKs bookmark item one https://bookmark-item-one.com bookmark item two https://bookmark-item-two.com bookmark item three https://bookmark-item-three.com </description>
     </item>
     
   </channel>
